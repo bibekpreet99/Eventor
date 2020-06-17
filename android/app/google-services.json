@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875369915038",
+    "firebase_url": "https://eventor-8b59b.firebaseio.com",
+    "project_id": "eventor-8b59b",
+    "storage_bucket": "eventor-8b59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875369915038:android:661b2cc819e6d3e34c518f",
+        "android_client_info": {
+          "package_name": "com.example.eventor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875369915038-5nud2pphqmcsbm2o7qvfnul5floqegmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarpYUQE0FBeKu6sps3Zg_PrUnYKBdQg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875369915038-5nud2pphqmcsbm2o7qvfnul5floqegmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
